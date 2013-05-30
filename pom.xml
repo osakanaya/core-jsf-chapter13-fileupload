@@ -2,11 +2,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.corejsf</groupId>
-	<artifactId>core-jsf-chapter13-fileupload</artifactId>
+	<artifactId>core-jsf-chapter13-binary1</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>core-jsf-chapter13-fileupload Maven Webapp</name>
+	<name>core-jsf-chapter13-binary1 Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
 	<dependencies>
@@ -40,7 +40,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>core-jsf-chapter13-fileupload</finalName>
+		<finalName>core-jsf-chapter13-binary1</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
